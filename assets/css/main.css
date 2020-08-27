@@ -1288,15 +1288,15 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 10.5rem;
-			height: 10.5rem;
-			line-height: 5.5rem;
+			width: 7.5rem;
+			height: 7.5rem;
+			line-height: 7.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 .logo__img {
-	width: 10rem;
-	height: 10rem;
+	width: 7rem;
+	height: 7rem;
 	display: block;
 	width: 100%;
 }
