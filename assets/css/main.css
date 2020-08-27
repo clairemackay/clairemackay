@@ -1288,10 +1288,12 @@ input, select, textarea {
 			}
 
 		#header .logo {
-/* replace this value to a value from Font Awesome icon style*/
-width: 2rem; 
-height: 2rem;
-}
+			width: 5.5rem;
+			height: 5.5rem;
+			line-height: 5.5rem;
+			border: solid 1px #ffffff;
+			border-radius: 100%;
+		}
 .logo__img {
 display: block;
 width: 100%;
