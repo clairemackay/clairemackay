@@ -102,7 +102,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #000000;
+		color: #fff;
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -2937,6 +2937,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #ffffff;
+			color: #000000;
 		}
 
 		.wrapper.style3 {
